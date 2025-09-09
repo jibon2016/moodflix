@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
+    "appwrite": "^20.0.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-use": "^17.6.0",
     "tailwindcss": "^4.1.13"
   },
   "devDependencies": {
